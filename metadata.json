@@ -1,0 +1,5 @@
+{
+  "name": "Soraa deployment",
+  "description": "A high-performance React SPA with premium minimalist UI/UX, featuring a public demo mode and Supabase integration.",
+  "requestFramePermissions": []
+}
